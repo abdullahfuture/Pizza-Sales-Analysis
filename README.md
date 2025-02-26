@@ -1,5 +1,6 @@
 # 🍕 Pizza Sales Insights  
-
+![Pizza Home Report](pizza-home-dashboard.png) 
+![Pizza worse/best seller](pizza-home-dashboard.png) 
 Welcome to the **Pizza Sales Analysis** project!  
 Ever wondered how to **boost sales & optimize pizza orders**? Let’s dive into the data! 📊🔥  
 
